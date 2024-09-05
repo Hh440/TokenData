@@ -2,20 +2,5 @@
   
   "description": "This is a token for my awesome project.",
   "image": "https://i.postimg.cc/3wqwKfjH/bear.jpg",
-  "external_url": "https://example.com",
-  "attributes": [
-    {
-      "trait_type": "rarity",
-      "value": "rare"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://i.postimg.cc/3wqwKfjH/bear.jpg",
-        "type": "image/jpg"
-      }
-    ],
-    "category": "image"
-  }
+  
 }
