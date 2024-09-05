@@ -2,7 +2,7 @@
   "name": "Bear",
   "symbol": "BR",
   "description": "This is a token for my awesome project.",
-  "image": "https://cdn.pixabay.com/photo/2024/02/02/15/38/ai-generated-8548454_640.jpg",
+  "image": "https://i.postimg.cc/3wqwKfjH/bear.jpg",
   "external_url": "https://example.com",
   "attributes": [
     {
@@ -13,7 +13,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://cdn.pixabay.com/photo/2024/02/02/15/38/ai-generated-8548454_640.jpg",
+        "uri": "https://i.postimg.cc/3wqwKfjH/bear.jpg",
         "type": "image/jpg"
       }
     ],
