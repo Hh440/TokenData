@@ -1,25 +1,12 @@
 {
- 
-
-  "name":"Zara"
-   "symbol":Zr
-  "description": "This is a token for my awesome project.",
+  "name": "Zara",
+  "symbol": "Zr",
+  "description": "Awesome Token",
   "image": "https://i.postimg.cc/3wqwKfjH/bear.jpg",
-  "external_url": "https://example.com",
   "attributes": [
     {
-      "trait_type": "rarity",
-      "value": "rare"
+      "trait_type": "Property",
+      "value": "Value"
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://i.postimg.cc/3wqwKfjH/bear.jpg",
-        "type": "image/jpg"
-      }
-    ],
-    "category": "image"
-  }
-  
+  ]
 }
